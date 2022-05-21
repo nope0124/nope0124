@@ -1,24 +1,29 @@
 ### Hi there 👋
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=nope0124)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nope0124&layout=compact&count_private=true&show_icons=true&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nope0124&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nope0124)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<br/>
 
-### Rating:
+## :computer: Competitive Programming:
 [![Badge](https://cp-logo.vercel.app/atcoder/nope124)](https://atcoder.jp/users/nope124)
 [![Badge](https://cp-logo.vercel.app/codeforces/nope124)](https://codeforces.com/profile/nope124)
-  
+- ICPC Asia Yokohama Regional 2020 (Team:shichifuku)
+- ICPC Asia Yokohama Regional 2021 (Team:shichifuku)
+<br/>
 
+## :necktie: Careers and Interns:
+- PC Club Activity Instructor 2019
+- Cygames Internship 2021
+- Infratop Internship 2021 ~
+<br/>
 
-### Languages and Tools:
-
-
+## :wrench: Languages and Tools:
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
