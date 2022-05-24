@@ -13,6 +13,7 @@
 ## :computer: Competitive Programming:
 [![Badge](https://cp-logo.vercel.app/atcoder/nope124)](https://atcoder.jp/users/nope124)
 [![Badge](https://cp-logo.vercel.app/codeforces/nope124)](https://codeforces.com/profile/nope124)
+[![Badge](https://karaoke-badge.vercel.app/clubdam-dx-ranking/ganmolt)]
 - ICPC Asia Yokohama Regional 2020 (Team:shichifuku)
 - ICPC Asia Yokohama Regional 2021 (Team:shichifuku)
 <br/>
