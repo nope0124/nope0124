@@ -20,7 +20,8 @@
 ## :necktie: Careers and Interns:
 - PC Club Activity Instructor 2019
 - Cygames Internship 2021
-- Infratop Internship 2021 ~
+- Infratop Internship 2021 ~ 2022
+- DONUTS Internship 2022 ~
 <br/>
 
 ## :wrench: Languages and Tools:
@@ -41,8 +42,11 @@
 <br />
 
 ## 🎤 Karaoke Scoring
-[![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g-ranking-plus/nope124)](https://dx-g.clubdam.info/repranking)
-
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope0421/rawPoint/countRawOver95)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope0421/rawPoint/countRawOver98)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope0421/rawPoint/countRawOver99)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope0421/rawPoint/countRaw100)
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope0421/chartTotal/cntChart490)
 
 
 <br />
