@@ -22,6 +22,7 @@
 - Cygames Internship 2021
 - Infratop Internship 2021 ~ 2022
 - DONUTS Internship 2022 ~
+- PIXIV SPRING BOOT CAMP 2023
 <br/>
 
 ## :wrench: Languages and Tools:
