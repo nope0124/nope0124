@@ -19,7 +19,7 @@
 
 ## :necktie: Careers and Interns:
 - PC Club Activity Instructor 2019
-- Cygames Internship 2021
+- Cygames Internship 2021, 2023
 - Infratop Internship 2021 ~ 2022
 - DONUTS Internship 2022 ~
 - PIXIV SPRING BOOT CAMP 2023
