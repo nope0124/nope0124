@@ -24,6 +24,7 @@
 - DONUTS Internship 2022 ~
 - PIXIV SPRING BOOT CAMP 2023
 - GREE Camp 2023
+- RECRUIT Internship for Engineers, Data Specialists 2023
 <br/>
 
 ## :wrench: Languages and Tools:
