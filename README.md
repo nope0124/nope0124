@@ -45,9 +45,10 @@
 <br />
 
 ## 🎤 Karaoke Scoring:
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope124/rawPoint/countRawOver95)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope124/rawPoint/countRawOver98)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope124/rawPoint/countRawOver99)
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope124/rawPoint/countRaw100)
-
+![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope124/chartTotal/countChart490)
 
 <br />
