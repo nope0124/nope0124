@@ -21,7 +21,7 @@
 - PC Club Activity Instructor 2019
 - Cygames Internship 2021, 2023
 - Infratop Internship 2021 ~ 2022
-- DONUTS Internship 2022 ~
+- DONUTS Internship 2022 ~ 2024 (Jobcan / Game)
 - PIXIV SPRING BOOT CAMP 2023
 - GREE Camp 2023
 - RECRUIT Internship for Engineers, Data Specialists 2023
