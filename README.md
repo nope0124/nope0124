@@ -13,8 +13,10 @@
 ## :computer: Competitive Programming:
 [![Badge](https://cp-logo.vercel.app/atcoder/nope124)](https://atcoder.jp/users/nope124)
 [![Badge](https://cp-logo.vercel.app/codeforces/nope124)](https://codeforces.com/profile/nope124)
-- ICPC Asia Yokohama Regional 2020 (Team:shichifuku)
-- ICPC Asia Yokohama Regional 2021 (Team:shichifuku)
+- ICPC 2020 Preliminary Round 45th / Asia Yokohama Regional 22nd (Team: shichifuku)
+- ICPC 2021 Preliminary Round 47th / Asia Yokohama Regional 23rd (Team: shichifuku)
+- ICPC 2022 Preliminary Round 36th (Team: shichifuku)
+- ICPC 2024 Preliminary Round 43rd (Team: UI_beam)
 <br/>
 
 ## :necktie: Careers and Interns:
