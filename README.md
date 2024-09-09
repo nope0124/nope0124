@@ -54,3 +54,9 @@
 ![Badge](https://karaoke-badge.vercel.app/clubdam-dx-g/nope0421/chartTotal/countChart490)
 
 <br />
+
+## 🦑 Splatoon:
+![Badge](https://xp-badge.vercel.app/kiu124/splat_zones)
+![Badge](https://xp-badge.vercel.app/kiu124/tower_control)
+![Badge](https://xp-badge.vercel.app/kiu124/rainmaker)
+![Badge](https://xp-badge.vercel.app/kiu124/clam_blitz)
